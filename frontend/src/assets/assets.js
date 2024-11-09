@@ -1,12 +1,26 @@
 import tv_1 from './tv_1.jpg'
 import tv_2 from './tv_2.jpg'
-import wm_1 from './wm_1.jpg'
-import wm_2 from './wm_2.jpg'
-import wm_3 from './wm_3.jpg'
+import wm_1 from './wm_1.png'
+import wm_2 from './wm_2.png'
+import wm_3 from './wm_3.png'
+import logo from './logo.png'
+import profile_icon from './profile_icon.png'
+import search from './search.png'
+import cart_icon from './cart_icon.png'
+import menu_icon from './menu_icon.jpg'
+import dropdown_icon from './dropdown_icon.png'
+import hero_img from './hero_img.png'
 // import tv_1 from './tv_1.jpg'
 
 
 export const assets = {
+    logo,
+    search,
+    profile_icon,
+    cart_icon,
+    menu_icon,
+    dropdown_icon,
+    hero_img,
     tv_1,
     tv_2,
     wm_1,
